@@ -38,10 +38,6 @@ This project implements a **content-based movie recommender system** using Pytho
 ```python
 get_recommendation("The Dark Knight Rises")
 Output:
-
-markdown
-Copy
-Edit
 Top 10 similar movies:
 1. The Dark Knight
 2. Batman Begins
